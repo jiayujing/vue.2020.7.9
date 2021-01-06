@@ -16,7 +16,7 @@
     "npm install --production": "可以只安装 dependencies 字段的模块"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mint-ui": "^2.2.13",
     "moment": "^2.27.0",
     "vue": "^2.5.2",
